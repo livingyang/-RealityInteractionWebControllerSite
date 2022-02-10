@@ -4,6 +4,9 @@
   "scripts": {
     "start": "node server.js"
   },
+  "engines": {
+      "node": "16.x"
+  },
   "repository": "https://github.com/livingyang/RealityInteractionWebControllerSite.git",
   "author": "livingyang <lhm.cold@163.com>",
   "license": "MIT",
